@@ -1,0 +1,66 @@
+{
+    "projects": [
+        {
+            "title": "My Portfolio",
+            "image": "images/js.png",
+            "github_url": "https://github.com/khirwadkarshubham25/my_portfolio",
+            "live_url": "https://shubhamkhirwadkar.netlify.app/",
+            "bg": "assets/oldPortfolio.png"
+        },
+        {
+            "title": "My Portfolio New",
+            "image": "images/js.png",
+            "github_url": "https://github.com/khirwadkarshubham25/my_portfolio",
+            "live_url": "",
+            "bg": "assets/newPortfolio.png"
+        },
+        {
+            "title": "Sentiment Analysis Twitter",
+            "image": "images/pythonJupyter.png",
+            "github_url": "https://github.com/khirwadkarshubham25/sentiment-analysis-twitter",
+            "bg": "assets/sentimentAnalysisTwitter.png"
+        },
+        {
+            "title": "E-Commerce Price Comparator",
+            "image": "images/pythonDjango.png",
+            "github_url": "https://github.com/khirwadkarshubham25/e-commerce-price-comparator",
+            "bg": "assets/e-commerce-price.png"
+        },
+        {
+            "title": "Store Management System",
+            "image": "images/pythonJavascript.png",
+            "github_url": "https://github.com/khirwadkarshubham25/Store-Management-Portal",
+            "bg": "assets/food_mart.png"
+        },
+        {
+            "title": "Expense Manager",
+            "image": "images/JavaJavaScript.png",
+            "github_url": "https://github.com/khirwadkarshubham25/expense_manager",
+            "bg": "assets/expense_manager.png"
+        },
+        {
+            "title": "ToDo App",
+            "image": "images/js.png",
+            "github_url": "https://github.com/khirwadkarshubham25/Todo-App",
+            "bg": "assets/todo.png"
+        },
+        {
+            "title": "Linux Commands",
+            "image": "images/linux.png",
+            "github_url": "https://github.com/khirwadkarshubham25/linux_cheat_sheet",
+            "bg": "assets/linuxPro.jpeg"
+        },
+        {
+            "title": "Sales Data Analysis",
+            "image": "images/pythonJupyter.png",
+            "github_url": "https://github.com/khirwadkarshubham25/sales_data_analysis",
+            "bg": "assets/salesData.png"
+        },
+        {
+            "title": "Receipt Processor",
+            "image": "images/pythonDjango.png",
+            "github_url": "https://github.com/khirwadkarshubham25/receipt_processor",
+            "bg": "assets/pythonDjango.png"
+        }
+    ]
+}

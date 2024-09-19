@@ -1,0 +1,92 @@
+{
+    "skills":[
+        {
+            "icon": "assets/python.jpeg",
+            "title": "Python"
+        },
+        {
+            "icon": "assets/java.jpeg",
+            "title": "Java"
+        },
+        {
+            "icon": "assets/js.jpeg",
+            "title": "JavaScript"
+        },
+        {
+            "icon": "assets/HTML.png",
+            "title": "HTML"
+        },
+        {
+            "icon": "assets/CSS.png",
+            "title": "CSS"
+        },
+        {
+            "icon": "assets/postgresql.png",
+            "title": "PostgreSQL"
+        },
+        {
+            "icon": "assets/mysql.jpeg",
+            "title": "MySQL"
+        },
+        {
+            "icon": "assets/sqlite.jpeg",
+            "title": "SQLite"
+        },
+        {
+            "icon": "assets/mongo-db.jpeg",
+            "title": "MongoDB"
+        },
+        {
+            "icon": "assets/django.jpeg",
+            "title": "Django"
+        },
+        {
+            "icon": "assets/spring.png",
+            "title": "Spring Boot"
+        },
+        {
+            "icon": "assets/react.jpeg",
+            "title": "React"
+        },
+        {
+            "icon": "assets/jquery.png",
+            "title": "JQuery"
+        },
+        {
+            "icon": "assets/selenium.png",
+            "title": "Selenium"
+        },
+        {
+            "icon": "assets/appium.svg",
+            "title": "Appium"
+        },
+        {
+            "icon": "assets/jira.png",
+            "title": "Jira"
+        },
+        {
+            "icon": "assets/git.jpeg",
+            "title": "Git"
+        },
+        {
+            "icon": "assets/svn.png",
+            "title": "Tortoise SVN"
+        },
+        {
+            "icon": "assets/docker.jpeg",
+            "title": "Docker"
+        },
+        {
+            "icon": "assets/jenkins.png",
+            "title": "Jenkins"
+        },
+        {
+            "icon": "assets/airflow.svg",
+            "title": "Airflow"
+        },
+        {
+            "icon": "assets/aws.png",
+            "title": "AWS"
+        }
+    ]
+}
