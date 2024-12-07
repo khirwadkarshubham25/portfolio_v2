@@ -4,7 +4,7 @@
             "company": "Benefit Harbor, LP",
             "title": "Software Engineer",
             "location": "Plano, Texas, United States",
-            "responsibilites": "Developing an innovative self-service web application for employees to manage and enroll in insurance products using Java Spring and jQuery, streamlining the enrollment process and enhancing operational efficiency, resulting in a 70% reduction in employer’s time spent enrolling employees in benefits. Designing an enrollment feature that dynamically manages prerequisites for insurance products offered by over 20 carriers, each providing more than 40 different types of insurance, ensuring a seamless and efficient enrollment process. Identifying and resolving critical bugs in products swiftly to minimize customer impact and expedite issue resolution, ensuring seamless customer experience and operational continuity.",
+            "responsibilites": "Designing a self-service web application for employees to manage and enroll in insurance products. Streamlined the process by designing a dynamic enrollment feature for 20+ carriers, reducing employer time spent on enrollment by 70%. Developing and integrating automated data analysis processes, providing clients with intuitive, on-demand report generation that improved data accessibility and informed decision-making. Proactively identifying and resolving critical product issues, ensuring uninterrupted user experience and reducing response times for customer service. Conducting code reviews for peers, optimizing code and promoting coding standards.",
             "start": "July, 2023",
             "end": "Present"
         },
@@ -12,7 +12,7 @@
             "company": "Coreview Systems Private Limited",
             "title": "Software Engineer",
             "location": "Pune, Maharashtra, India",
-            "responsibilites": "Designed and developed a Python Django web framework and REST APIs using Django ORM, enabling seamless operations, which managed a high-volume user load exceeding 200,000 users, optimizing performance and reliability. Spearheaded a PoC on Apache Airflow by implementing efficient database synchronization, significantly increasing data consistency and reducing operational time by 67%. Implemented efficient application deployment on AWS by implementing CI/CD pipelines with Git and Jenkins, resulting in a 17% reduction in build time and optimizing the development lifecycle.",
+            "responsibilites": "Collaborated with clients using Agile methodology to obtain, analyze, and develop web application requirements. Designed and implemented web framework and REST APIs to perform user requests on client applications. Developed a Poc for data synchronization using Airflow, enhancing data consistency and reducing sync time by 67%. Implemented CI/CD pipelines on AWS with Git and Jenkins, reducing build time and streamlining the development lifecycle.",
             "start": "Nov, 2019",
             "end": "July, 2021"
         },
@@ -20,7 +20,7 @@
             "company": "Cognizant Technology Solutions",
             "title": "Software Engineer",
             "location": "Pune, Maharashtra, India",
-            "responsibilites": "Planned a comprehensive testing strategy, executed story test preparations, and conducted bug reporting utilizing Agile methodology while collaborating seamlessly with a team of 20+ developers. Enhanced testing coverage to 76% by integrating automation test scripts into the Regression Suite for API testing, leveraging Selenium and Java to streamline and optimize testing processes.",
+            "responsibilites": "Developed a comprehensive testing strategy within an Agile team, improving collaboration and issue tracking among 20+ developers. Enhanced testing coverage by 76% by automating regression testing with Selenium, reducing manual testing time and increasing accuracy.",
             "start": "July, 2018",
             "end": "Oct, 2019"
         },

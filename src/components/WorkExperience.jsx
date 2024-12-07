@@ -10,7 +10,7 @@ const WorkExperience = () => {
 			<div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
 				<div>
                     <p className='text-4xl font-bold inline border-b-4 border-[#b9db17]'>Work Experience</p>
-                    <p className='py-4'>Software Engineer with 4 years of experience across multiple organizations, I have successfully developed scalable web applications, optimized system performance, and enhanced automation processes. My expertise spans web development, data analysis, automation testing, and continuous integration, driving innovation and delivering high-quality, reliable software solutions.</p>
+                    <p className='py-4'>Software Engineer with 4 years of experience across multiple organizations, I have successfully developed scalable web applications, optimized system performance, and enhanced automation processes. My expertise spans web development, data analysis, system design, automation testing, and continuous integration, driving innovation and delivering high-quality, reliable software solutions.</p>
                 </div>
 
 				<div className="relative">
