@@ -11,6 +11,7 @@ const Home = () => {
             <h2 className='text-4xl sm:text-7xl font-bold text-[#67cfc1]'>I'm a Software Engineer</h2>
             <p className='text-[#67cfc1] py-4 max-w-[700px]'>
                 specializing in building and designing web applications, data analysis, system designing and automation testing.
+                I am passionate about cybersecurity and delivering well-engineered solutions.
             </p>
 
             <div>

@@ -4,7 +4,7 @@
             "company": "Benefit Harbor, LP",
             "title": "Software Engineer",
             "location": "Plano, Texas, United States",
-            "responsibilites": "Designing a self-service web application for employees to manage and enroll in insurance products. Streamlined the process by designing a dynamic enrollment feature for 20+ carriers, reducing employer time spent on enrollment by 70%. Developing and integrating automated data analysis processes, providing clients with intuitive, on-demand report generation that improved data accessibility and informed decision-making. Proactively identifying and resolving critical product issues, ensuring uninterrupted user experience and reducing response times for customer service. Conducting code reviews for peers, optimizing code and promoting coding standards.",
+            "responsibilites": "Designed and implemented a comprehensive insurance portal, building the front end with JavaScript and developing the backend REST APIs with Spring Boot and Hibernate to ensure seamless communication in a microservices environment. Developed a comprehensive and automated reporting system for internal use and for external clients, including payroll, invoices, and employee insurance details, which increased operational efficiency for employers and carriers by 50%. Optimized SQL queries and database indexing, reducing latency and improving application performance by 60%. Supported and maintained a large-scale, monolithic insurance application, working with legacy technologies including JSP, Servlets, JPA, and jQuery to handle new feature requests and bug fixes.",
             "start": "July, 2023",
             "end": "Present"
         },
@@ -12,7 +12,7 @@
             "company": "Coreview Systems Private Limited",
             "title": "Software Engineer",
             "location": "Pune, Maharashtra, India",
-            "responsibilites": "Collaborated with clients using Agile methodology to obtain, analyze, and develop web application requirements. Designed and implemented web framework and REST APIs to perform user requests on client applications. Developed a Poc for data synchronization using Airflow, enhancing data consistency and reducing sync time by 67%. Implemented CI/CD pipelines on AWS with Git and Jenkins, reducing build time and streamlining the development lifecycle.",
+            "responsibilites": "Helped architect and implement a custom framework from scratch using Python and Django, which was used to design and deliver reliable RESTful APIs for a web application while enforcing coding best practices and ensuring high code quality. Architected a robust ETL solution using Apache Airflow and successfully demonstrated its effectiveness in a Proof of Concept (PoC), resolving data issues to achieve a 67% increase in efficiency and 100% data consistency. Engineered and automated CI/CD pipelines using Git, Docker, and Jenkins for seamless application deployment on AWS, achieving a 100% deployment success rate. Collaborated effectively within a cross-functional Agile team, participating in daily stand-ups, sprint planning, and thorough code reviews to maintain high code quality and ensure successful sprint delivery.",
             "start": "Nov, 2019",
             "end": "July, 2021"
         },
@@ -20,7 +20,7 @@
             "company": "Cognizant Technology Solutions",
             "title": "Software Engineer",
             "location": "Pune, Maharashtra, India",
-            "responsibilites": "Developed a comprehensive testing strategy within an Agile team, improving collaboration and issue tracking among 20+ developers. Enhanced testing coverage by 76% by automating regression testing with Selenium, reducing manual testing time and increasing accuracy.",
+            "responsibilites": "Engineered a comprehensive test strategy for API testing, defining high-level and low-level test cases that optimized the manual process and enhanced overall test coverage. Developed and executed API automation test scripts using Java and Selenium, integrating them into a regression suite to increase test coverage to 87%.",
             "start": "July, 2018",
             "end": "Oct, 2019"
         },
