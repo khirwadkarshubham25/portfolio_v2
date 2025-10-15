@@ -1,5 +1,6 @@
 import React, {useState} from "react";
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
+import { SiLeetcode } from "react-icons/si";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import Logo from "../assets/logo.png"
@@ -118,8 +119,13 @@ const Navbar = () => {
                             GitHub <FaGithub size={30}/>
                         </a>
                     </li>
+                    <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-yellow-600">
+                        <a href="https://leetcode.com/u/khirwadkarshubham/" target='_blank' className="flex justify-between items-center w-full text-gray-300">
+                            LeetCode <SiLeetcode size={30}/>
+                        </a>
+                    </li>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-red-500">
-                        <a href='mailto:shubhamkhirwadkar@outlook.com' className="flex justify-between items-center w-full text-gray-300">
+                        <a href='mailto:khirwadkarshubham09@gmail.com' className="flex justify-between items-center w-full text-gray-300">
                             Email <HiOutlineMail size={30}/>
                         </a>
                     </li>

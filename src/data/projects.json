@@ -1,6 +1,17 @@
 {
     "projects": [
         {
+            "title": "Phishing Email Detection",
+            "github_url": "https://github.com/khirwadkarshubham25/phishing_email_detection",
+            "bg": "assets/phishingEmail.png"
+
+        },
+        {
+            "title": "Port Scanning",
+            "github_url": "https://github.com/khirwadkarshubham25/port_scanning",
+            "bg": "assets/port-scanning.png"
+        },
+        {
             "title": "Sign Language Detector",
             "github_url": "https://github.com/khirwadkarshubham25/sign-language-detector",
             "bg": "assets/sign_language_detector.png"

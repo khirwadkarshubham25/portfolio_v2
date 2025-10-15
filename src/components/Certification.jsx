@@ -7,8 +7,12 @@ const certs = [
   },
   {
     imageSrc: require(`../assets/MicrosoftCyberSecurity.jpg`),
-    imageAlt: 'Google Cybersecurity',
-  }
+    imageAlt: 'Microsoft Technology Associate: Security Fundamentals',
+  },
+//   {
+//     imageSrc: require(`../assets/Python.jpg`),
+//     imageAlt: 'Python'
+//   }
 ]
 
 const Certification = () => {
@@ -21,9 +25,10 @@ const Certification = () => {
                     <p className='py-4'>These are the certifications I have completed.</p>
                 </div>
 
-                <div className='grid sm:grid-cols-2 md:grid-cols-2 gap-4'>
+                <div className='grid sm:grid-cols-2 md:grid-cols-2 gap-20'>
                     {certs.map((cert) => (
-                    <div key={certs.name} className="group relative">
+                    <div key={certs.name} className="group relative text-xl font-bold text-[#b9db17]">
+                        {cert.imageAlt}
                         <img
                             alt={cert.imageAlt}
                             src={cert.imageSrc}
